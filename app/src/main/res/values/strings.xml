@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">viewFlippers</string>
+    <string name="third_image">Third Image</string>
+    <string name="second_image">Second Image</string>
+    <string name="first_image">First Image</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
